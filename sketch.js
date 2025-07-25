@@ -28,19 +28,12 @@ var numBoxes = 20;
 
 function preload() {
   naruhodo = loadImage(
-    "assets/rudolphChibi1"
+    "assets/rudolfChibi1.png"
   );
 
   hodonaru = loadImage(
-    "assets/rudolphChibi2"
+    "assets/rudolfChibi2.png"
   );
-  // naruhodo = loadImage(
-  //   "https://static.wikia.nocookie.net/umamusume/images/6/6c/SymboliRudolfChibi1.png/revision/latest/scale-to-width-down/250?cb=20220502233132"
-  // );
-
-  // hodonaru = loadImage(
-  //   "https://static.wikia.nocookie.net/umamusume/images/d/d7/SymboliRudolfChibi2.png/revision/latest/scale-to-width-down/250?cb=20220502233144"
-  // );
 
 naruArray = [
   naruhodo,
