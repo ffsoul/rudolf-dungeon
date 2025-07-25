@@ -74,8 +74,8 @@ function setup() {
       x: width / 2,
       y: height / 2,
     },
-    text: "activate naruhodo mode",
-    text2: "deactivate naruhodo mode",
+    text: "umapyoi",
+    text2: "umapyoff",
   };
 
   wallBtm = new Box({
